@@ -20,7 +20,7 @@ Here’s how I linked everything together to deploy the site live:
 1. **Developed Locally** using VS Code and GitHub Desktop.
 2. **Hosted via Azure Static Web Apps** – easily set up through GitHub integration.
 3. **Custom Domain Setup**:
-   - Registered domain through [Namecheap](https://www.namecheap.com/)
+   - Registered domain through Namecheap (https://www.namecheap.com/)
    - Added a **custom DNS** record pointing to my Azure Static Web App
    - Verified and connected the domain within the Azure portal
 
